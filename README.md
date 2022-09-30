@@ -1,7 +1,7 @@
 # NTUST-1102-DeepLearningBasedImageRecognition-FinalReport-DCGAN-ProgressiveGAN
 NTUST 110-2-李佩君-基於深度學習之影像辨識 期末報告
 
-![訓練過程]( https://i.imgur.com/kZdczmj.gifv )
+![image]( https://i.imgur.com/kZdczmj.gif )
 
 ### 3-2 模型及訓練參數
 #### 3-2-1 Generator設計
@@ -30,5 +30,7 @@ NTUST 110-2-李佩君-基於深度學習之影像辨識 期末報告
 
 ##### 參考資料
 >[1] Alec Radford, Luke Metz, Soumith Chintala. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. abs/1511.06434, 2016.
+>
 >[2] another anime face dataset, 2021 .URL https://www.kaggle.com/datasets/scribbless/another-anime-face-dataset
+>
 >[3] Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen. Progressive Growing of GANs for Improved Quality, Stability, and Variation. abs/1710.10196, 2018.
