@@ -1,8 +1,6 @@
 # NTUST-1102-DeepLearningBasedImageRecognition-FinalReport-DCGAN-ProgressiveGAN
 NTUST 110-2-基於深度學習之影像辨識 期末報告
 
-![image]( https://i.imgur.com/kZdczmj.gif )
-
 ### 3-2 模型及訓練參數
 #### 3-2-1 Generator設計
 ![]( https://i.imgur.com/o4lAnBg.png )
@@ -25,6 +23,13 @@ NTUST 110-2-基於深度學習之影像辨識 期末報告
 
 #### 3-4 GUI 程式
 ![]( https://i.imgur.com/BcqZ05V.png )
+
+### 訓練結果
+DCGAN:
+(https://imgur.com/kZdczmj)
+
+ProgressiveGAN:
+(https://imgur.com/RJEhTRG)
 
 
 
