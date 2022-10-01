@@ -1,5 +1,5 @@
 # NTUST-1102-DeepLearningBasedImageRecognition-FinalReport-DCGAN-ProgressiveGAN
-NTUST 110-2-李佩君-基於深度學習之影像辨識 期末報告
+NTUST 110-2-基於深度學習之影像辨識 期末報告
 
 ![image]( https://i.imgur.com/kZdczmj.gif )
 
